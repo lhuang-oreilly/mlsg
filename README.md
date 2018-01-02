@@ -2,6 +2,9 @@
 
 This is the repo for the Machine Learning Study Group.
 
+This repo contains notebooks for each topic in our study group:
+* Processing Data [notebook viewer](http://nbviewer.jupyter.org/github/lhuang-oreilly/mlsg/blob/master/Processing-Data.ipynb)
+
 
 # Getting started
 
